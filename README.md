@@ -2,7 +2,7 @@
 
 I like solving problems and building software that feels worth building.
 
-These days, that’s mostly **[AllMates](https://www.allmates.ai/)**: a place to build AI agents, hook them up to your tools, and get them working together—with control over what they can access and do.
+These days, that’s mostly **[AllMates](https://www.allmates.ai/)**: a place to build AI agents, hook them up to your tools, and get them working together with control over what they can access and do.
 
 Always up for a rabbit hole about new tech, AI, or something you've been building.
 
