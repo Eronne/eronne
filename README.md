@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey, I'm Erwann 👋
 
-<!--
-**Eronne/eronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like solving problems and building software that feels worth building.
 
-Here are some ideas to get you started:
+These days, that’s mostly **[AllMates](https://www.allmates.ai/)**: a place to build AI agents, hook them up to your tools, and get them working together—with control over what they can access and do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always up for a rabbit hole about new tech, AI, or something you've been building.
+
+Outside of tech, I’m into HYROX and pretty much anything with an engine.
+
+---
+
+**Building something fun?** I'd love to hear about it.
